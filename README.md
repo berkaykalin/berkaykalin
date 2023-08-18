@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @berkaykalin
 - 👀 I’m interested in software,artificial intelligence,machine learning
-- 🌱 I’m currently learning C#,HTML,CSS and Python
+- 🌱 I’m currently learning C#,HTML,CSS and JavaScript
 - 💞️ I’m looking to collaborate on sharing code 
 - 📫 How to reach me ...
 
